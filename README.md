@@ -4,7 +4,10 @@ Notes and sample files for Quartz Composer Workshops.
 
 # Resources
 
+### Plugins
+
 * [Origami Homepage](http://facebook.github.io/origami/)
+* [Nicer Cable Connections developed by Bartosz Ciechanowski](https://github.com/Ciechan/QCCableConnections)
 
 ### Articles
 
