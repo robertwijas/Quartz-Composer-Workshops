@@ -17,6 +17,10 @@ Notes and compositions for Quartz Composer Workshops.
 * [Quartz & Facebook Origami - A collection of useful resources and readings for interaction prototyping.](https://medium.com/quartz-facebook-origami)
 * [Quartz Composer Diary](http://qc.prabros.com)
 
+### Books
+
+* [Learning Quartz Composer: A Hands-On Guide to Creating Motion Graphics with Quartz Composer](http://www.amazon.com/Learning-Quartz-Composer-Hands-On-Creating/dp/0321636945)
+
 ### Screencasts
 
 * [Prototyping with Facebook Origami](http://vimeo.com/85578380)
