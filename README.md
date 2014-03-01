@@ -24,6 +24,7 @@ Notes and compositions for Quartz Composer Workshops.
 ### Screencasts
 
 * [Prototyping with Facebook Origami](http://vimeo.com/85578380)
+* [Sharing Compositions As Apps](http://vimeo.com/86476026)
 
 ### Community
 
