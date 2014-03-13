@@ -12,10 +12,14 @@ Notes and compositions for Quartz Composer Workshops.
 * [Nicer Cable Connections](https://github.com/Ciechan/QCCableConnections)
 * [QCConsole](https://github.com/macoscope/QCConsole) - prints out all values received by its input port in the dedicated console window.
 
-### Articles
+### Blogs
 
 * [Quartz & Facebook Origami - A collection of useful resources and readings for interaction prototyping.](https://medium.com/quartz-facebook-origami)
 * [Quartz Composer Diary](http://qc.prabros.com)
+
+### Articles
+
+* [Quick Tips for Using Quartz Composer in Interaction Design](http://joe.sh/qc-tips)
 
 ### Books
 
@@ -29,3 +33,4 @@ Notes and compositions for Quartz Composer Workshops.
 ### Community
 
 * [Origami Group on Facebook](https://www.facebook.com/groups/origami.community/)
+* [QC Designers forum](http://qcdesigners.com)
