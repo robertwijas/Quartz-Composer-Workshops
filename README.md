@@ -2,7 +2,13 @@
 
 Notes and compositions for Quartz Composer Workshops.
 
-# Links
+## Useful Resources
+
+### Start with
+
+* [Origami](http://facebook.github.io/origami/)
+* [Screencasts from quartzcomposer.tv](http://quartzcomposer.tv/screencasts/)
+* [Origami Group on Facebook](https://www.facebook.com/groups/origami.community/)
 
 ### Plugins
 
@@ -14,11 +20,13 @@ Notes and compositions for Quartz Composer Workshops.
 
 ### Blogs
 
+* [http://quartzcomposer.tv - Blog & excelent sceencasts](http://quartzcomposer.tv)
 * [Quartz & Facebook Origami - A collection of useful resources and readings for interaction prototyping.](https://medium.com/quartz-facebook-origami)
 * [Quartz Composer Diary](http://qc.prabros.com)
 
 ### Articles
 
+* [UI Prototyping with Quartz Composer and Origami](http://www.pasanpremaratne.com/2014/03/15/UI-Prototyping-with-Quartz-Composer-and-Origami/)
 * [Quick Tips for Using Quartz Composer in Interaction Design](http://joe.sh/qc-tips)
 
 ### Books
@@ -27,6 +35,7 @@ Notes and compositions for Quartz Composer Workshops.
 
 ### Screencasts
 
+* [http://quartzcomposer.tv](http://quartzcomposer.tv/screencasts/)
 * [Prototyping with Facebook Origami](http://vimeo.com/85578380)
 * [Sharing Compositions As Apps](http://vimeo.com/86476026)
 
